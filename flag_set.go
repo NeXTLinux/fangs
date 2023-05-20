@@ -3,7 +3,7 @@ package fangs
 import (
 	"github.com/spf13/pflag"
 
-	"github.com/nextlinux/gologger"
+	logger "github.com/nextlinux/gologger"
 )
 
 // FlagSet defines effectively a subset of the methods exposed by pflag.FieldSet, as fangs requires all flag

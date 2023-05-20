@@ -5,7 +5,7 @@ import (
 
 	"github.com/spf13/pflag"
 
-	"github.com/nextlinux/gologger"
+	logger "github.com/nextlinux/gologger"
 	"github.com/nextlinux/gologger/adapter/discard"
 )
 

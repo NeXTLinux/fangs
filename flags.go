@@ -6,7 +6,7 @@ import (
 
 	"github.com/spf13/pflag"
 
-	"github.com/nextlinux/gologger"
+	logger "github.com/nextlinux/gologger"
 )
 
 // FlagAdder interface can be implemented by structs in order to add flags when AddFlags is called
